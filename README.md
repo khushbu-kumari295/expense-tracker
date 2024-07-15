@@ -11,12 +11,13 @@ Expense Manager is a web application designed to help you manage and split expen
 
 # Technologies Used
 ## Frontend:
-React
-TailwindCSS
-TypeScript
+- React
+- TailwindCSS
+- TypeScript
+
 ## Backend:
-Node.js
-Express.js
+- Node.js
+- Express.js
 
 # Installation
 ## Prerequisites
